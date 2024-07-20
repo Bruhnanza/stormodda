@@ -1,6 +1,10 @@
 ![Stormilla Modded](https://github.com/Bruhnanza/stormodda/blob/main/Images/Title.png?raw=true)
 
+![Cover Image](https://github.com/Bruhnanza/stormodda/blob/main/Images/Covers/20JUL2024.png?raw=true)
+
 The focus of this pack is to make mods compatible and more consistent with [Stormilla](https://modrinth.com/resourcepack/stormilla). This mainly focuses on GUI-related elements but is expanded to other aspects as well. Initial support primarily includes mods that I use, but support is planned to expand to many, many more mods.
+
+To enable the Dark Mode of this pack, the [Respackopts](https://modrinth.com/mod/respackopts) mod is required.
 
 <details>
 <summary>Supported Mods</summary>
@@ -45,8 +49,11 @@ The focus of this pack is to make mods compatible and more consistent with [Stor
 Minor Mentions: [Cloth Config](https://modrinth.com/mod/cloth-config), [ETF](https://modrinth.com/mod/entitytexturefeatures), [Iris](https://modrinth.com/mod/iris), [Language Reload](https://modrinth.com/mod/language-reload)
 </details>
 
-### Screenshots
-![Trinkets GUI Example](https://github.com/Bruhnanza/stormodda/blob/main/Images/Example%201%20Small.png?raw=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Advanced Netherite Example](https://cdn.modrinth.com/data/cached_images/53716cd93c23324c591bf396119cb88579779f98.png)
+<details>
+<summary>Screenshots</summary>
 
+![Advanced Netherite Diamond Armor](https://github.com/Bruhnanza/stormodda/blob/main/Images/Advanced%20Netherite%202.png?raw=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Dark Enchanting Table](https://github.com/Bruhnanza/stormodda/blob/main/Images/Dark%20Enchanting.png?raw=true)
+
+</details>
 
 © 2024 Bruhnanza | Some Rights Reserved | CC BY-NC-SA

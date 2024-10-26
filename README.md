@@ -4,7 +4,7 @@
 
 The focus of this pack is to make mods compatible and more consistent with [Stormilla](https://modrinth.com/resourcepack/stormilla). This mainly focuses on GUI-related elements but is expanded to other aspects as well. Initial support primarily includes mods that I use, but support is planned to expand to many, many more mods.
 
-To enable the Dark Mode of this pack, the [Respackopts](https://modrinth.com/mod/respackopts) mod is required.
+To enable the Dark Mode of this pack, the [Respackopts](https://modrinth.com/mod/respackopts) mod is required. There is also a standalone dark version included in each release starting [2.1](https://github.com/Bruhnanza/stormodda/releases/tag/2.1) that works without any dependencies.
 
 <details>
 <summary>Supported Mods</summary>
@@ -12,41 +12,46 @@ To enable the Dark Mode of this pack, the [Respackopts](https://modrinth.com/mod
 | 🟩: Supported | 🟨: In Progress | 🟦: Planned | 🟥: Not Supported |
 |:-------------:|:---------------:|:-----------:|:-----------------:|
 
-| Mods                                                                                     | Support | Version                    |
-|------------------------------------------------------------------------------------------|---------|----------------------------|
-| [Advanced Netherite](https://modrinth.com/mod/advanced-netherite)                        | 🟨       | Began support in ```1.0``` |
-| [Artifacts](https://modrinth.com/mod/artifacts)                                          | 🟩       | Added in ```1.0```         |
-| [Axiom](https://modrinth.com/mod/axiom)                                                  | 🟦       |                            |
-| [Better Archeology](https://modrinth.com/mod/better-archeology)                          | 🟩       | Added in ```1.0```         |
-| [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)                             | 🟦       |                            |
-| [Charged Charms](https://modrinth.com/mod/charged-charms)                                | 🟩       | Added in ```1.1```         |
-| [Chest Tracker](https://modrinth.com/mod/chest-tracker)                                  | 🟦       |                            |
-| [Curios](https://modrinth.com/mod/curios)                                                | 🟦       |                            |
-| [Dark Enchanting](https://modrinth.com/mod/dark-enchanting)                              | 🟨       | Began support in ```2.0``` |
-| [Eating Animation](https://modrinth.com/mod/eating-animation)                            | 🟩       | Added in ```1.1```         |
-| [EMI](https://modrinth.com/mod/emi)                                                      | 🟩       | Added in ```1.0```         |
-| [Frostbyte's Improved Inventory](https://modrinth.com/mod/frostbytes-improved-inventory) | 🟩       | Added in ```1.1```         |
-| [Inventory Management](https://modrinth.com/mod/inventory-management)                    | 🟦       |                            |
-| [ItemSwapper](https://modrinth.com/plugin/itemswapper)                                   | 🟦       |                            |
-| [JEI](https://modrinth.com/mod/jei)                                                      | 🟦       |                            |
-| Litematica                                                                               | 🟦       |                            |
-| [Nemo's Woodcutter](https://modrinth.com/mod/nemos-woodcutter)                           | 🟩       | Added in ```2.0```         |
-| [No Chat Reports](https://modrinth.com/mod/no-chat-reports)                              | 🟦       |                            |
-| [Not Enough Recipe Book](https://modrinth.com/mod/nerb)                                  | 🟩       | Added in ```2.0```         |
-| [Origins](https://modrinth.com/mod/origins)                                              | 🟦       |                            |
-| [Paginated Advancements](https://modrinth.com/mod/paginatedadvancements)                 | 🟦       |                            |
-| [Regions Unexplored](https://modrinth.com/mod/regions-unexplored)                        | 🟨       | Began support in ```1.0``` |
-| [REI](https://modrinth.com/mod/rei)                                                      | 🟦       |                            |
-| [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)                        | 🟩       | Added in ```2.0```         |
-| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)                       | 🟩       | Added in ```2.0```         |
-| [TrashSlot](https://modrinth.com/mod/trashslot)                                          | 🟩       | Added in ```1.0```         |
-| [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack)                        | 🟨       | Began support in ```2.0``` |
-| [Trinkets](https://modrinth.com/mod/trinkets)                                            | 🟩       | Added in ```1.0```         |
-| [Utility Belt](https://modrinth.com/mod/utility-belt)                                    | 🟨       | Began support in ```1.0``` |
-| [What's That Slot?](https://modrinth.com/mod/whats-that-slot)                            | 🟩       | Added in ```2.0```         |
-| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)                               | 🟦       |                            |
+| Mods                                                                                                                    	| Support 	| Version                    	|
+|-------------------------------------------------------------------------------------------------------------------------	|---------	|----------------------------	|
+| [Accessories](https://modrinth.com/mod/accessories)                                                                     	| 🟨       	| Began support in ```2.1``` 	|
+| [Advanced Netherite](https://modrinth.com/mod/advanced-netherite)                                                       	| 🟨       	| Began support in ```1.0``` 	|
+| [Artifacts](https://modrinth.com/mod/artifacts)                                                                         	| 🟩       	| Added in ```1.0```         	|
+| [Axiom](https://modrinth.com/mod/axiom)                                                                                 	| 🟦       	|                            	|
+| [Better Archeology](https://modrinth.com/mod/better-archeology)                                                         	| 🟩       	| Added in ```1.0```         	|
+| [BetterNether](https://modrinth.com/mod/betternether)                                                                   	| 🟦       	|                            	|
+| [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)                                                            	| 🟦       	|                            	|
+| [Charged Charms](https://modrinth.com/mod/charged-charms)                                                               	| 🟩       	| Added in ```1.1```         	|
+| [Chest Tracker](https://modrinth.com/mod/chest-tracker)                                                                 	| 🟦       	|                            	|
+| [Curios](https://modrinth.com/mod/curios)                                                                               	| 🟦       	|                            	|
+| [Dark Enchanting](https://modrinth.com/mod/dark-enchanting)                                                             	| 🟨       	| Began support in ```2.0``` 	|
+| [Eating Animation](https://modrinth.com/mod/eating-animation)                                                           	| 🟩       	| Added in ```1.1```         	|
+| [EMI](https://modrinth.com/mod/emi)                                                                                     	| 🟩       	| Added in ```1.0```         	|
+| [Frostbyte's Improved Inventory](https://modrinth.com/mod/frostbytes-improved-inventory)                                	| 🟩       	| Added in ```1.1```         	|
+| [Hephaestus](https://modrinth.com/mod/hephaestus)                                                                       	| 🟦       	|                            	|
+| [Inventory Management](https://modrinth.com/mod/inventory-management)                                                   	| 🟩       	| Added in ```2.1```         	|
+| [ItemSwapper](https://modrinth.com/plugin/itemswapper)                                                                  	| 🟦       	|                            	|
+| [JEI](https://modrinth.com/mod/jei)                                                                                     	| 🟦       	|                            	|
+| [Litematica](https://modrinth.com/mod/litematica)                                                                       	| 🟦       	|                            	|
+| [Nemo's Woodcutter](https://modrinth.com/mod/nemos-woodcutter)                                                          	| 🟩       	| Added in ```2.0```         	|
+| [No Chat Reports](https://modrinth.com/mod/no-chat-reports)                                                             	| 🟦       	|                            	|
+| [Origins](https://modrinth.com/mod/origins)                                                                             	| 🟦       	|                            	|
+| [Paginated Advancements](https://modrinth.com/mod/paginatedadvancements)                                                	| 🟦       	|                            	|
+| [Regions Unexplored](https://modrinth.com/mod/regions-unexplored)                                                       	| 🟨       	| Began support in ```1.0``` 	|
+| [REI](https://modrinth.com/mod/rei)                                                                                     	| 🟦       	|                            	|
+| [Respawnable Pets](https://modrinth.com/mod/respawnable-pets)                                                           	| 🟩       	| Added in ```2.1```         	|
+| [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)                                                       	| 🟩       	| Added in ```2.0```         	|
+| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)                                                      	| 🟩       	| Added in ```2.0```         	|
+| [TrashSlot](https://modrinth.com/mod/trashslot)                                                                         	| 🟩       	| Added in ```1.0```         	|
+| [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack)                                                       	| 🟨       	| Began support in ```2.0``` 	|
+| [Trinkets](https://modrinth.com/mod/trinkets)                                                                           	| 🟩       	| Added in ```1.0```         	|
+| [Useful Slime](https://modrinth.com/mod/useful-slime)                                                                   	| 🟩       	| Added in ```2.1```         	|
+| [Utility Belt](https://modrinth.com/mod/utility-belt)                                                                   	| 🟨       	| Began support in ```1.0``` 	|
+| [What's That Slot?](https://modrinth.com/mod/whats-that-slot)                                                           	| 🟩       	| Added in ```2.0```         	|
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)                                                              	| 🟦       	|                            	|
+| [XP Storage](https://modrinth.com/mod/xp-storage) & [XP Storage Trinkets](https://modrinth.com/mod/xp-storage-trinkets) 	| 🟩       	| Added in ```2.1```         	|
 
-Minor Mentions: [Cloth Config](https://modrinth.com/mod/cloth-config), [ETF](https://modrinth.com/mod/entitytexturefeatures), [Iris](https://modrinth.com/mod/iris), [Language Reload](https://modrinth.com/mod/language-reload)
+Minor Mentions: [Cloth Config](https://modrinth.com/mod/cloth-config), [ETF](https://modrinth.com/mod/entitytexturefeatures), [Iris](https://modrinth.com/mod/iris), [Language Reload](https://modrinth.com/mod/language-reload), [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
 </details>
 
 <details>
